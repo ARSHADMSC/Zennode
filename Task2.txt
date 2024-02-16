@@ -1,0 +1,43 @@
+1.Why do you like to join as a Software developer?
+
+Ans:I am passionate about solving complex problems through technology and enjoy creating solutions.
+    I am excited about the opportunity to contribute my skills and creativity to develop software that makes a difference
+    in the field.
+
+2.List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+
+Ans:
+   i)Visual Studio Code
+	->It's popular and most widely used for developers.It provides a lightweight and customizable environment with a wide range of extensions,
+	making it suitable for various programming languages. 
+   ii)Git
+	->Git is a distributed version control system used for tracking changes in source code during software development.
+	  developers can easily work with collaborate
+   iii)Docker
+	->Docker is a platform for developing, shipping, and running applications in containers. It provides consistency across different environments and simplifies deployment processes.
+          It's free,helped me for deploying the code
+
+3.List top 3 organisations you like to join in your career & why you like these organisations
+Ans:
+    i.Tesla:Tesla is known for fostering a challenging and collaborative work environment.
+	he opportunity to tackle unique challenges and be part of a team focused on transforming industries can be appealing to those who thrive in dynamic and fast-paced environments.
+    ii.Google :Millions of people are depends on google and it's world wid.The company fosters a creative and collaborative environment, 
+	and many professionals are attracted to the opportunity to work on groundbreaking projects.
+    iii.Microsoft
+	Microsoft is a global technology giant known for its diverse range of products and services, including software development, cloud computing, and gaming.
+
+4.How you position yourself in this industry after 2 years
+Ans: I see myself in the industry better knowledge and better position in my job.
+
+5.List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same
+
+Ans:
+1.Bank Application Project:
+  it's a bank application project done in a MERN Stack.It provides basic bank operations like AddUser,Deposit,Withdraw etc
+  I have done UI part of the project
+2.E-Commerce Application
+  An online platform provides custom and ready-to-go solutions for online e-commerce platform to boost sales.
+  I have done both UI and Backend side code
+3.Portfolio
+  All about my carrier and academic projects.Used programming language HTML,CSS,Javascrit.
+  
